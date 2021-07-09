@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\wnyou\Desktop\school\2020\2020-3\컴퓨터비전\과제\hand detection\main.cpp(137,120): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wnyou\Desktop\school\2020\2020-3\컴퓨터비전\과제\hand detection\main.cpp(138,121): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wnyou\Desktop\school\2020\2020-3\컴퓨터비전\과제\hand detection\main.cpp(139,113): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wnyou\Desktop\school\2020\2020-3\컴퓨터비전\과제\hand detection\main.cpp(33,10): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  26 of 384 functions ( 6.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  OpenCV Project Property Sheet.vcxproj -> C:\Users\wnyou\Desktop\school\2020\2020-3\컴퓨터비전\과제\hand detection\x64\Release\OpenCV Project Property Sheet.exe

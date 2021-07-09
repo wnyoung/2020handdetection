@@ -1,0 +1,3 @@
+C:\Users\wnyou\Desktop\school\2020\2020-3\컴퓨터비전\practice\2. pixel processing - 이진화\x64\Release\OpenCV Project Property Sheet.exe
+C:\Users\wnyou\Desktop\school\2020\2020-3\컴퓨터비전\practice\hand detection\x64\Release\OpenCV Project Property Sheet.exe
+C:\Users\wnyou\Desktop\school\2020\2020-3\컴퓨터비전\과제\hand detection\x64\Release\OpenCV Project Property Sheet.exe
